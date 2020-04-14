@@ -4,8 +4,8 @@ data_dependencies/labeled_data/*
 data_dependencies/original_data/*
 testing/models/*.h5
 testing/models/four_fingers/*.h5
-venv/*
-.idea/*
+venv/
+.idea/
 __pycache__/
 testing/__pycache__
 testing/.DS_Store
