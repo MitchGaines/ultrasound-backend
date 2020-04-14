@@ -1,0 +1,7 @@
+
+data_dependencies/data_2_5_2020/*
+data_dependencies/labeled_data/*
+data_dependencies/original_data/*
+testing/models/*.h5
+testing/models/four_fingers/*.h5
+venv/*
